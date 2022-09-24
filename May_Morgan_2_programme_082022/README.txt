@@ -8,6 +8,7 @@ Les fichiers de ce dossier ont le rôle suivant :
 - Le fichier "app.py" est le script python contenant l'application.
 - Le fichier "ResNet50_pretrained_2.h5" est le réseau de neurones Keras entraîné, utilisé par "app.py".
 - Le fichier "dict_classes.pkl" est un fichier de mapping utilisé par "app.py" et lui permettant de déterminer la race de chien prédite par le modèle.
+- Le fichier "requirements.txt" indique les librairies Python nécessaires à installer pour utiliser l'application 
 
 Etapes :
 
